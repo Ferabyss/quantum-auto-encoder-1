@@ -22,6 +22,3 @@ Un circuito variacional que clasifica imágenes para mostrar las capacidades de 
 ![image](https://github.com/user-attachments/assets/382eebab-5703-4e37-9156-00dfaf783c3d)
 
 
-
-
-https://fullstackquantumcomputation.tech/blog/quantum-autoencoder/
