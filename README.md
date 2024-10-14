@@ -11,10 +11,10 @@ margin-right: auto;
 width: 50%;
 }
 
-![image](https://github.com/user-attachments/assets/dc08706f-eef9-4c3f-a075-821c16f81ab7){align = "center"}
-![image](https://github.com/user-attachments/assets/db1f136f-588c-4ee7-8468-65133431ff8c){align = "center"}
-![image](https://github.com/user-attachments/assets/11ce0f6c-eb6b-433a-b63a-f07c500e53b5){align = "center"}
-![image](https://github.com/user-attachments/assets/495067b6-b4bb-423e-8a49-c42a86e517c8){align = "center"}
+![image](https://github.com/user-attachments/assets/dc08706f-eef9-4c3f-a075-821c16f81ab7)
+![image](https://github.com/user-attachments/assets/db1f136f-588c-4ee7-8468-65133431ff8c) 
+![image](https://github.com/user-attachments/assets/11ce0f6c-eb6b-433a-b63a-f07c500e53b5)
+![image](https://github.com/user-attachments/assets/495067b6-b4bb-423e-8a49-c42a86e517c8)
 
 
 
